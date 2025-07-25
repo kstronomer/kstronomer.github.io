@@ -2,9 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+author_profile: false   # 또는 삭제
 ---
 
 {% include base_path %}
