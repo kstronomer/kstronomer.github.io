@@ -1,14 +1,14 @@
 ---
-layout: home
-title: "Kwangmin Oh"
+layout: single
+title: "Welcome"
 permalink: /
+author_profile: true
 ---
 
-Welcome to my academic homepage!
+### 🔭 About Me
 
-I am a postdoctoral researcher in astrophysics at MSU, working on globular clusters, compact objects, and X-ray binaries.
+I am a postdoctoral researcher at Michigan State University studying the formation and evolution of compact binaries in dense stellar environments such as globular clusters.
 
-- 📄 [My CV](assets/files/cv.pdf)
-- 🔗 [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
-- 🛰 [arXiv](https://arxiv.org/search/?searchtype=author&query=Oh%2C+Kwangmin)
-- 📚 [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Oh%2C%20Kwangmin%22)
+My research combines multiwavelength observations (X-ray, radio, optical) with theoretical modeling and simulations.
+
+---
