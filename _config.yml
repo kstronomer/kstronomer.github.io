@@ -26,7 +26,7 @@ author:
   name             : "Kwangmin Oh"
   pronouns         : # example: "she/her"  
   bio              : "postdoc @ Michigan State University. Compact objects, X-ray, Gamma-ray, and some GW"
-  location         : "East Lansing, MI"
+  location         : #
   employer         : "Michigan State University"
   uri              : # URL
   email            : "min8582046@gmail.com" 
