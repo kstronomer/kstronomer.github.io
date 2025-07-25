@@ -32,15 +32,11 @@ author:
   email            : "min8582046@gmail.com" 
 
   # Academic websites
-  academia         : "https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FOh%2C%20K%2FOh%2C%20K%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FOh%2C%20K%2FOh%2C%20Kwangmin%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FOh%2C%20K%2FOh%2C%20K%22%20OR%20author_facet_hier%3A%221%2FOh%2C%20K%2FOh%2C%20Kwangmin%22)&fq_database=(database%3A%22astronomy%22)&q=author%3A%22Oh%2C%20K.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+  ADS         : "https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FOh%2C%20K%2FOh%2C%20K%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FOh%2C%20K%2FOh%2C%20Kwangmin%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FOh%2C%20K%2FOh%2C%20K%22%20OR%20author_facet_hier%3A%221%2FOh%2C%20K%2FOh%2C%20Kwangmin%22)&fq_database=(database%3A%22astronomy%22)&q=author%3A%22Oh%2C%20K.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Oh%2C+Kwangmin"
   googlescholar    : "https://scholar.google.com/citations?user=IheAsogAAAAJ&hl=en"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-9672-3742"
-  semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
