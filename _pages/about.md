@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 I am a postdoctoral researcher in astrophysics at Michigan State University.  
-My research investigates the formation, evolution, and observational signatures of compact binaries and black holes in globular clusters. I combine X-ray, optical, and radio observations with advanced simulations to explore exotic systems such as ultracompact X-ray binaries (UCXBs), cataclysmic variables, and millisecond pulsars and other binaries with high-energy phenomena.
+My research investigates the formation, evolution, and observational signatures of compact binaries and black holes in globular clusters. I combine X-ray, optical, and radio observations with advanced simulations to explore exotic systems such as ultracompact X-ray binaries, cataclysmic variables, and millisecond pulsars and other binaries with high-energy phenomena.
 
 I completed my Ph.D. in Astronomy & Astrophysics at Chungnam National University, Korea, where I developed machine learning models to classify compact X-ray sources and contributed to gravitational wave data analysis as a member of the LIGO-Virgo-KAGRA (LVK) collaboration. My doctoral work laid the foundation for ongoing studies on stellar interactions in dense stellar systems.
 
-At Michigan State, I lead multi-wavelength studies of ultra-luminous X-ray sources (ULXs) in extragalactic globular clusters using two decades of archival Chandra and HST data. I also mentor undergraduate researchers, focusing on source classification techniques and simulation validation.
+At Michigan State University, I lead multi-wavelength studies of ultra-luminous X-ray sources in extragalactic globular clusters using two decades of archival Chandra and HST data. I also mentor undergraduate researchers, focusing on source classification techniques and simulation validation.
 
 My broader research goals include identifying exotic binaries in dense stellar systems and understanding the dynamical pathways that lead to the formation of accreting compact objects. 
 
