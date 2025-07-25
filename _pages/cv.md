@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Appointments
 ======
 * **Postdoctoral Research Associate**, Michigan State University, USA (2023–present)  
