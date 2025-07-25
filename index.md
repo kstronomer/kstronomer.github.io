@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Welcome"
+title: ""
 permalink: /
 author_profile: true
 ---
-
-### 🔭 About Me
 
 I am a postdoctoral researcher at Michigan State University studying the formation and evolution of compact binaries in dense stellar environments such as globular clusters.
 
