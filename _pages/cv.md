@@ -11,54 +11,70 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Astronomy & Space Science**, Chungnam National University, Korea (2023)
+  * X-ray binaries, globular clusters, gravitational waves, machine learning  
+  * Advisor: Prof. David Hui
+* **M.S. in Astronomy & Space Science**, Chungnam National University, Korea (2019)
+* **B.S. in Astronomy & Space Science**, Chungnam National University, Korea (2017)
 
-Work experience
+
+Current Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Ultra-luminous X-ray Sources in Globular Clusters**  
+  * Long-term X-ray and optical analysis to investigate evolutionary processes
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Globular Cluster Dynamics**  
+  * Monte Carlo simulations (MOCCA) to understand formation pathways of various compact objects
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Globular Cluster evolution**
+  * Understanding the internal dynamics of globular cluster
+
+Appointments
+======
+* **Postdoctoral Research Associate**, Michigan State University, USA (2023–present)  
+  * X-ray and gamma-ray observations of compact objects and globular clusters
   
+Research Experience
+======
+**Michigan State University**
+* Supervised undergraduate student research on X-ray source classification in GCs  
+* Performed time-resolved and spectral analyses of ULXs in extragalactic clusters
+* Advisor: Prof. Stephen Zepf
+
+**Chungnam National University**
+* Developed ML algorithms for compact object classification in GCs  
+* Member of LIGO–Virgo–KAGRA (LVK) collaboration (KAGRA), contributed to noise reduction  
+* Conducted multi-wavelength analysis (X-ray, optical, gamma-ray) of compact binaries  
+* Advisor: Prof. David Hui
+
+Fellowships
+======
+* **Global Ph.D. Fellowship**, National Research Foundation of Korea – 100,000 USD  
+* **Ph.D. Research Fellowship**, NRF Korea – 40,000 USD
+
+Awards
+======
+* Excellence Research Award, Chungnam National University  
+* Academic Excellence Scholarship, Chungnam National University (2x)  
+* Top Poster Presentation, CNU Research Fair
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**: Python, R, IDL, Bash
+* **Software**: CIAO, HEASoft, XSPEC, MOCCA, CLOUDY  
+* **Data Analysis**: X-ray spectroscopy/imaging/timing (Chandra, XMM), Fermi-LAT, Optical imaging (HST, Gaia) and spectroscopy (SOAR, GEMINI, MAGELLAN)
+* **Machine Learning**: Scikit-learn, Keras
+* **Simulation**: MOCCA (N-body), CLOUDY (nebular modeling)
 
-Publications
+Teaching
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Teaching Assistant – Astronomical Instruments (CNU)  
+* Teaching Assistant – Astronomical Observation & Practice (CNU)  
+* Research Assistant – Statistics Department (CNU)
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
