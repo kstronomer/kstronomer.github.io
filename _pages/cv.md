@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+Appointments
+======
+* **Postdoctoral Research Associate**, Michigan State University, USA (2023–present)  
+  * X-ray and gamma-ray observations of compact objects and globular clusters
 
 Education
 ======
@@ -28,11 +32,6 @@ Current Research
 
 * **Globular Cluster evolution**
   * Understanding the internal dynamics of globular cluster
-
-Appointments
-======
-* **Postdoctoral Research Associate**, Michigan State University, USA (2023–present)  
-  * X-ray and gamma-ray observations of compact objects and globular clusters
   
 Research Experience
 ======
