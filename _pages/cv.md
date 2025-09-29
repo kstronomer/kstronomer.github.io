@@ -70,9 +70,4 @@ Teaching
 * Teaching Assistant – Astronomical Observation & Practice (CNU)  
 * Research Assistant – Statistics Department (CNU)
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
