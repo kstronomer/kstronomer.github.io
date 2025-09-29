@@ -5,6 +5,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: false
+nav: false 
 ---
 
 Here you can find my current and past research projects.
