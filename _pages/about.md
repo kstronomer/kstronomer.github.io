@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About Me"
 author_profile: true
+nav_order: 1 
 ---
 
 I am a postdoctoral researcher in astrophysics at Michigan State University.  
