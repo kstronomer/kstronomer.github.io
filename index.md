@@ -11,6 +11,5 @@ Observation: I analyze multi-wavelength data (X-ray, optical, radio) from telesc
 
 Simulation: I use theoretical modeling, including N-body and Monte-Carlo simulations, to investigate how the dense cluster environment dynamically shapes the evolution of these objects.
 
-Data Science: I apply advanced signal processing and machine learning algorithms to classify astrophysical sources and for the challenging task of denoising and detecting gravitational wave signals.
-
+Data Science: I apply advanced signal processing and machine learning algorithms to classify compact sources
 ---
