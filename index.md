@@ -4,12 +4,14 @@ title: ""
 permalink: /
 author_profile: true
 ---
+I am an observational and computational astrophysicist and a Postdoctoral Research Associate at Michigan State University. My primary research goal is to understand the complex interplay between stellar evolution and stellar dynamics in the universe's densest environments, globular clusters. To achieve this, I employ a multi-faceted approach:
 
-As a Postdoctoral Research Associate at Michigan State University, my work explores the life cycles of compact binaries in dense star clusters. My research stands on three pillars:
+Multi-wavelength Observations: I lead observational projects analyzing the X-ray, optical, and radio properties of compact objects.
 
-Observation: I analyze multi-wavelength data (X-ray, optical, radio) from telescopes like Chandra and XMM-Newton to study the properties of sources like black hole candidates and ULXs.
+Chandra and optical data to unravel its accretion physics and evolutionary state. I have also conducted detailed multi-epoch X-ray imaging of globular clusters.
 
-Simulation: I use theoretical modeling, including N-body and Monte-Carlo simulations, to investigate how the dense cluster environment dynamically shapes the evolution of these objects.
+Dynamical Simulations: I utilize large-scale N-body and Monte-Carlo simulations to model the evolution of compact binary populations. This theoretical work allows me to interpret observational data within a physical framework, for example, by studying how cluster dynamics affect the evolution of pulsars and cataclysmic variables.
 
-Data Science: I apply advanced signal processing and machine learning algorithms to classify compact sources
+Advanced Data Analysis: I develop and apply machine learning techniques to analyze complex astrophysical data, including classifying X-ray sources in crowded fields.
+
 ---
