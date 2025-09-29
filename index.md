@@ -1,10 +1,11 @@
 ---
-layout: single
-title: ""
+layout: splash
 permalink: /
 author_profile: true
 header:
-  image: /assets/images/IMG_8322.jpeg
+  overlay_image: /assets/images/IMG_8322.jpeg
+  overlay_filter: 0.5 # Optional: 이미지를 어둡게 해서 글씨가 잘 보이게 합니다 (0.1 ~ 0.9)
+  caption: ""
 ---
 
 I am an observational and computational astrophysicist and a Postdoctoral Research Associate at Michigan State University. My primary research goal is to understand the complex interplay between stellar evolution and stellar dynamics in the universe's densest environments, globular clusters. To achieve this, I employ a multi-faceted approach:
