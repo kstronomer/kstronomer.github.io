@@ -1,10 +1,9 @@
 ---
-layout: splash
+layout: single
 permalink: /
 author_profile: true
 header:
-  overlay_image: /assets/images/IMG_8322.jpeg
-  overlay_filter: 0.5 # Optional: 이미지를 어둡게 해서 글씨가 잘 보이게 합니다 (0.1 ~ 0.9)
+  image: /assets/images/IMG_8322.jpeg
   caption: ""
 ---
 
