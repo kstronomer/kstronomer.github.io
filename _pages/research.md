@@ -5,6 +5,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: false
+nav_order: 3
 nav: false 
 ---
 
