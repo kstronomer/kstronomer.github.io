@@ -1,10 +1,12 @@
 ---
-layout: single
+layout: splash
 permalink: /
-author_profile: true
+title: "Kwangmin Oh"
+subtitle: "Astrophysicist | Postdoctoral Research Associate at Michigan State University"
 header:
-  image: /assets/images/IMG_8322.jpeg
-  caption: ""
+  overlay_image: /assets/images/IMG_8322.jpeg
+  overlay_filter: 0.5
+author_profile: false
 ---
 
 I am an observational and computational astrophysicist and a postdoctoral researcher in astrophysics at Michigan State University.  
