@@ -3,9 +3,8 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
-header: 
+header:
   image: /assets/images/IMG_8322.jpeg
-
 ---
 
 I am an observational and computational astrophysicist and a Postdoctoral Research Associate at Michigan State University. My primary research goal is to understand the complex interplay between stellar evolution and stellar dynamics in the universe's densest environments, globular clusters. To achieve this, I employ a multi-faceted approach:
