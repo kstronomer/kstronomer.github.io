@@ -22,7 +22,7 @@ repository               : "kstronomer/kstronomer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.png"
+  avatar           : "img.png"
   name             : "Kwangmin Oh"
   pronouns         : # example: "she/her"  
   bio              : "postdoc @ MSU | compact binaries with X-ray/gamma-ray/GW"
